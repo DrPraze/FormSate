@@ -1,0 +1,23 @@
+{
+  "name": "formsate",
+  "version": "1.0.0",
+  "description": "A simple API that can help fill forms remotely",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "form",
+    "DOM",
+    "fill",
+    "entry"
+  ],
+  "author": "Praise James",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {}
+}
